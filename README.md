@@ -6,8 +6,6 @@
 ### <li> Tópicos Abordados: </li>
 Implementei telas inteiras, escrevi composables com diferentes layouts e estilizei tudo com Modifier.
 
-### <li> Tela inicial com a listagem de produtos: </li>
-
 
 <video
   controls
